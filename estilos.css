@@ -23,6 +23,7 @@ p {
     border-radius: 5px;
     padding: 20px;
     clear: both;
+    text-align: justify;
 }
 
 .curiosidade img {
